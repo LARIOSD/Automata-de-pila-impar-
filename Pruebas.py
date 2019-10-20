@@ -1,10 +1,6 @@
-stack = [3, 4, 5]
-stack.append(6)
-stack.append(7)
-stack.pop()
+a = ["a","b"]
 
-stack.pop()
+b = a
 
-stack.pop()
-
-print(stack)
+print("a =",a)
+print("b =",b)
