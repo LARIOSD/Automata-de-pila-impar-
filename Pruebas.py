@@ -1,4 +1,6 @@
-v = [["a","bb"],["c"]]
-x =["x","y","z"]
-v.append(x)
-print(v)
+a = ["a","b"]
+
+b = a
+
+print("a =",a)
+print("b =",b)
