@@ -1,4 +1,4 @@
-class Pila:
+class MiPila:
     def __init__(self):
         self.Pila = ["#",]
 
@@ -25,13 +25,6 @@ class Pila:
     def obtenerPila(self):
         return self.Pila
     
-Pila = Pila()
-
-
-
-
-
-
     
 
 
